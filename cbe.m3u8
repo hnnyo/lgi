@@ -4,4 +4,4 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
-http://exm3u.extraott.com:900/ZUL96376/UG4VTW4E/183168
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/183168.ts
