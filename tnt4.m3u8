@@ -1,3 +1,4 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
-http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=530935&extension=m3u8
+http://mains.services/live/pmf0423/1aku0jt%40/26a00017-1496-468f-8693-93df9e1b846f.m3u8
+#http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=530935&extension=m3u8
