@@ -1,3 +1,4 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
-http://myxpanel.pro/live/randy1/randy1/288375.m3u8
+http://79.127.138.222:443/1255/video.m3u8?token=c7080ca42f18092eff7f750e489b12b2
+#http://myxpanel.pro/live/randy1/randy1/288375.m3u8
