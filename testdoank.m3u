@@ -1,0 +1,13 @@
+#EXTINF:-1 tvg-id="484" tvg-name="adptv-484" group-title="SPORTS" tvg-logo="https://i.ibb.co/fV2m0F7R/champions-tv-.png",tes indo
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://pidio.becek.workers.dev/21165.drm
+https://nissa07.adptv.workers.dev/21165.mpd
+
+#EXTINF:-1 tvg-id="484" tvg-name="adptv-484" group-title="SPORTS" tvg-logo="https://i.ibb.co/fV2m0F7R/champions-tv-.png",tes indo 2
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nissa07.adptv.workers.dev/21165.drm
+https://nissa07.adptv.workers.dev/21165.mpd
